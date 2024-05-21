@@ -1,0 +1,32 @@
+#busqueda, #agregar, #crear{
+    height: 35px;
+    margin:10px 25px;
+    display: block;
+}
+#busqueda{
+    color:rgb(13, 165, 165);
+    background-color: aliceblue;
+    border: 2px solid rgb(13, 165, 165);
+    border-radius: 25px;
+    width: 150px;
+    
+}
+
+#agregar{
+    width: 35px;
+    color:rgb(253, 255, 255);
+    font: 25px center;
+    background-color: rgb(15, 113, 199);
+    border: none;
+    border-radius: 50%;
+
+}
+
+#crear{
+    color:rgb(253, 255, 255);
+    background-color: rgb(53, 146, 226);
+    border: 2px solid rgb(48, 47, 47);
+    box-shadow: 5px 5px 5px  rgb(48, 47, 47);
+    width: 150px;
+
+}
